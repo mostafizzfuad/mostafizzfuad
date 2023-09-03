@@ -1,6 +1,7 @@
+![Web Developer](https://media.licdn.com/dms/image/C5616AQHlgywKa13F5g/profile-displaybackgroundimage-shrink_200_800/0/1648649670017?e=2147483647&v=beta&t=pnfohpM95gZdCQjSZZoPnaZSLl6McoqxwmxauPRdcOU)
+
 ### Hi there 👋, I'm Mostafizur Rahman Fuad
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/C5616AQHlgywKa13F5g/profile-displaybackgroundimage-shrink_200_800/0/1648649670017?e=2147483647&v=beta&t=pnfohpM95gZdCQjSZZoPnaZSLl6McoqxwmxauPRdcOU)
 
 An aspiring MERN stack developer. Core strengths include Coding, C, C++, JavaScript, React JS, etc. I'm a quick learner & I have very good problem-solving skills.
 
