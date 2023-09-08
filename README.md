@@ -16,7 +16,5 @@ Skills: C / C++ / JS / React JS / Node JS / HTML / CSS / Bootstrap
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafizzfuad&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mostafizzfuad)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mostafizzfuad)  
 
