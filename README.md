@@ -10,10 +10,3 @@ Skills: C / C++ / JS / React JS / Node JS / HTML / CSS / Bootstrap
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostafizzfuad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafizzfuad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mostafizzfuad)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizzfuad)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafizzfuad&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mostafizzfuad)  
-
