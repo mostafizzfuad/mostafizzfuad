@@ -1,12 +1,10 @@
 
 ### Hi there 👋, I'm Mostafizur Rahman Fuad
-#### Web Developer
+#### Software Engineer
 
-An aspiring MERN stack developer. Core strengths include Coding, C, C++, JavaScript, React JS, etc. I'm a quick learner & I have very good problem-solving skills.
+Skills: C / C++ / C# / JS / React JS / HTML / CSS / Bootstrap
 
-Skills: C / C++ / JS / React JS / Node JS / HTML / CSS / Bootstrap
-
-- 🌱 I’m currently learning JavaScript, React, Node, Express, MongoDB 
+- 🌱 I’m currently learning C#, JavaScript, React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostafizzfuad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafizzfuad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mostafizzfuad)  
