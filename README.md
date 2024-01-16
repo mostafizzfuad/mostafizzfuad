@@ -1,6 +1,6 @@
 
-### Hi there 👋, I'm Mostafizur Rahman Fuad
-#### Software Engineer
+### Hi there, I'm Md Mostafizur Rahman
+### Software Engineer
 
 Skills: C / C++ / C# / JS / React JS / HTML / CSS / Bootstrap
 
