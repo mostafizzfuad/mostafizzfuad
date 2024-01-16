@@ -2,7 +2,7 @@
 ### Hi there, I'm Md Mostafizur Rahman
 #### Software Engineer
 
-Skills: C / C++ / C# / JS / HTML / CSS / Bootstrap
+Skills : C / C++ / C# / JS / HTML / CSS / Bootstrap
 
 I’m currently learning : C#, JavaScript
 
