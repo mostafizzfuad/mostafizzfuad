@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizzfuad&" alt="mostafizzfuad" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mostafizzfuad?theme=dark&font=Noto%20Serif%20Devanagari)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/mostafizzfuad?theme=dark&font=Noto%20Serif%20Devanagari) -->
