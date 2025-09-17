@@ -1,4 +1,4 @@
-## 👋 Software Engineer | Problem Solver
+## Software Engineer | Problem Solver
 
 💻 Currently working on **Web Application Development**.<br>
 🎨 Passionate about Backend Development.<br>
