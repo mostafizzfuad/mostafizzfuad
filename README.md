@@ -7,7 +7,7 @@
 💻 A Full Stack Software Enginner from **Bangladesh**  
 ⚡ Love to work with **TypeScript, Next.js, React, Node.js**  
 🌱 Currently learning **Backend Development**  
-📫 Reach me at: **mostafizzfuad@gmail.com**  
+📫 Reach me at: **mostafizur247.cse@gmail.com**  
 
 ---
 
