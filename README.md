@@ -38,7 +38,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizzfuad&layout=compact&theme=tokyonight" alt="langs"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizzfuad&theme=tokyonight" alt="streak"/>
+      <img src="https://streak-stats.demolab.com?user=mostafizzfuad&theme=tokyonight" alt="streak"/>
     </td>
   </tr>
 </table>
