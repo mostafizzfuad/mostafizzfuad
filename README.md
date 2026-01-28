@@ -7,7 +7,7 @@
 💻 A Full Stack Software Developer from **Bangladesh**  
 ⚡ Love to work with **TypeScript, Next.js, React, Node.js**  
 🌱 Currently learning **Backend Development**  
-👨‍💻 Portfolio: https://mostafizur-dev.vercel.app/
+👨‍💻 Portfolio: https://mostafizur-dev.vercel.app/ <br>
 📫 Reach me at: **mostafizur247.ts@gmail.com**  
 
 ---
