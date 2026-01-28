@@ -4,10 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=mostafizzfuad&label=Profile%20views&color=0e75b6&style=flat" alt="mostafizzfuad" /> 
 </p>
 
-💻 A Full Stack Software Enginner from **Bangladesh**  
+💻 A Full Stack Software Developer from **Bangladesh**  
 ⚡ Love to work with **TypeScript, Next.js, React, Node.js**  
 🌱 Currently learning **Backend Development**  
-📫 Reach me at: **mostafizur247.cse@gmail.com**  
+👨‍💻 Portfolio: https://mostafizur-dev.vercel.app/
+📫 Reach me at: **mostafizur247.ts@gmail.com**  
 
 ---
 
@@ -38,7 +39,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizzfuad&layout=compact&theme=tokyonight" alt="langs"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=mostafizzfuad&theme=tokyonight" alt="streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizzfuad&theme=tokyonight" alt="streak"/>
     </td>
   </tr>
 </table>
