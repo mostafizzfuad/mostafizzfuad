@@ -8,7 +8,7 @@
 ⚡ Love to work with **TypeScript, Next.js, React, Node.js**  
 🌱 Currently learning **Backend Development**  
 👨‍💻 Portfolio: **https://mostafizur-dev.vercel.app**  <br>
-📫 Reach me at: **mostafizur247.ts@gmail.com**  
+📫 Reach me at: **mostafizur247.cs@gmail.com**  
 
 ---
 
@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizzfuad&layout=compact&theme=tokyonight" alt="langs"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mostafizzfuad&layout=compact&theme=tokyonight" alt="langs"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizzfuad&theme=tokyonight" alt="streak"/>
